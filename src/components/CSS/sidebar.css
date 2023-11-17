@@ -1,0 +1,18 @@
+/* Add this CSS to your stylesheet */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.company-name {
+    background-color: #000C17;
+    height: 30em;
+    width: 15%;
+    color: white;
+  padding-left: 10px;
+    margin-top: 0px;
+    font-size:25px;
+    
+  }
+  
+  
+  
